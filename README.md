@@ -18,7 +18,8 @@ This project implements semantic segmentation on football match images using dee
 - **Data Split**:
   - Training set: 80 image pairs  
   - Validation set: 10 image pairs  
-  - Testing set: 10 image pairs  
+  - Testing set: 10 image pairs
+  - number of classes:  11
 
 ---
 
